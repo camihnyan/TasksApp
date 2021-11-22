@@ -1,2 +1,2 @@
 # TasksApp
-App to study TableView, UITextView, Array, UIAlertController, etc
+App to study TableView, UITextView, Array, UIAlertController, etc.
