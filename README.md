@@ -1,2 +1,3 @@
 # TasksApp
-Swift App to study TableView, UITextView, Array, UIAlertController, etc.
+Swift 5 (Xcode 12)
+TableView, UITextView, Array, UIAlertController,DispatchQueue, etc.
